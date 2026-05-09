@@ -254,5 +254,3 @@ If this resonates with you — you are in the right place.
 Open, experimental, non-commercial project.
 
 
-👉 https://openhomeclub.lovable.app
-
